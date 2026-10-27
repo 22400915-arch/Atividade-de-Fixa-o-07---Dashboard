@@ -1,0 +1,4 @@
+1) Abra esta pasta, clique na barra de endereço, digite cmd e aperte Enter.
+2) pip install streamlit        (so na primeira vez)
+3) python -m streamlit run app.py
+Edite o app.py para colocar seu nome, numero da chamada e turma.
